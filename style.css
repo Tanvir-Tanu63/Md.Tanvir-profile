@@ -4,3 +4,52 @@
 .section2{
     margin-top: -150px;
 }
+
+.skill-container{
+    display: flex;
+}
+
+.skill{
+    padding: 30px;
+    gap: 24px;
+}
+
+.resume-item-title{
+    color: #474747;
+    font-size: 25px;
+    font-weight: 700x;
+    margin-bottom: 10px;
+}
+.resume-item-institute{
+    margin-bottom: 20px;
+    margin-top: 0px;
+}
+.resume-container{
+    display: flex;
+    gap: 50px;
+}
+.resume-item-institute, .reesume-item-description{
+    color: #757575;
+}
+
+
+.resume-item{
+    margin-left: 528px;
+}
+.resume-column-title{
+    margin-left: 528px;
+}
+
+.new{
+    margin-top: 20px;
+    margin-left: 425px;
+}
+
+.section-title{
+    color: #181818;
+    text-align: center;
+    font-family:'Open Sans',
+    font-size: 35px;
+    font-weight: 700;
+}
+
