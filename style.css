@@ -2,7 +2,7 @@
     height: 400px;
 }
 .section2{
-    margin-top: -150px;
+    margin-top: -110px;
 }
 
 .skill-container{
@@ -58,6 +58,13 @@
 }
 
 .readmore{
-    margin-left: 15px;
+    margin-left: 5px;
+}
+
+.cv{
+    margin-left: 160px;
+}
+.cvm{
+    margin-left: 55px;
 }
 
